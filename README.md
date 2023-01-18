@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mpajithkumar1" target="blank"><img src="https://img.shields.io/twitter/follow/mpajithkumar1?logo=twitter&style=for-the-badge" alt="mpajithkumar1" /></a> </p>
 
-- 🔭 I’m currently working on [Text to Speech convertor](https://ajitharunai.github.io/Text-To-Speech-Converter/)
+- 🔭 I’m currently working on [Modern-Student-Management-system-using-Django](https://github.com/ajitharunai/Modern-Student-Management-system-using-Django)
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning | React Jss | Portfolio**
 
@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [I-Grow Association | AEC](https://arunai-cse.blogspot.com/)
 
-- 👨‍💻 All of my projects are available at [https://ajicreations.blogspot.com/](https://ajicreations.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ajitharunai.netlify.app/)
 
 - 📝 I regularly write articles on [https://ajicreations.netlify.app/](https://ajicreations.netlify.app/)
 
@@ -54,7 +54,7 @@
 -----
 Credits: [ajitharunai](https://github.com/ajitharunai)
 
-Last Edited on: 12/01/2022
+Last Edited on: 16/01/2023
 
 
 
